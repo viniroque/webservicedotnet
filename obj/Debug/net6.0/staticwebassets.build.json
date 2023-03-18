@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gNzItvGV0pa0yJPkgKyrbyq1gnyEcvSPbeavQzk1tIs=",
+  "Source": "webservicedotnet",
+  "BasePath": "_content/webservicedotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
